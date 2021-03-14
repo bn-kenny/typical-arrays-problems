@@ -11,6 +11,7 @@ exports.min = function min (array) {
   }   
 }
 
+
 exports.max = function max (array) {
   if(!array){
     return 0;
